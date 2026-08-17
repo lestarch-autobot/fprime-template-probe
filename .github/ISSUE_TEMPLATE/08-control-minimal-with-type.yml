@@ -1,0 +1,8 @@
+name: 08 Control minimal WITH type
+description: Control template with type Bug
+type: Bug
+body:
+  - type: input
+    id: ctl
+    attributes:
+      label: Control field
